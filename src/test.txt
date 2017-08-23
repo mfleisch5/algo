@@ -1,0 +1,60 @@
+Critic 1
+The Wizard of Oz
+Citizen Kane
+Mad Max: Fury Road
+Boyhood
+Casablanca
+Moonlight
+A Hard Day's Night
+12 Years a Slave
+Gravity
+Spotlight
+Toy Story 3
+Toy Story 2
+Up
+12 Angry Men
+Dr. Strangelove
+Rosemary's Baby
+Finding Nemo
+Manchester by the Sea
+L.A. Confidential
+Critic 2
+Citizen Kane
+Casablanca
+Boyhood
+The Wizard of Oz
+Moonlight
+12 Years a Slave
+12 Angry Men
+Manchester by the Sea
+Rosemary's Baby
+Dr. Strangelove
+Gravity
+A Hard Day's Night
+Spotlight
+Toy Story 3
+L.A. Confidential
+Finding Nemo
+Mad Max: Fury Road
+Up
+Toy Story 2
+Movies
+6/Citizen Kane
+10/Casablanca
+2/Boyhood
+1/The Wizard of Oz
+7/Moonlight
+5/12 Years a Slave
+5/12 Angry Men
+3/Manchester by the Sea
+2/Rosemary's Baby
+8/Dr. Strangelove
+8/Gravity
+9/A Hard Day's Night
+6/Spotlight
+2/Toy Story 3
+2/L.A. Confidential
+6/Finding Nemo
+8/Mad Max: Fury Road
+4/Up
+3/Toy Story 2
